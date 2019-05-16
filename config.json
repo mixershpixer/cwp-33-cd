@@ -3,7 +3,7 @@
     "development": {
       "name": "cwp33",
       "user": "root",
-      "pass": "1111",
+      "pass": "11111",
       "options": {
         "host": "localhost",
         "port": 3306,
@@ -16,11 +16,11 @@
       }
     },
     "production": {
-      "name": "d1anjki57kpccv",
-      "user": "xwqpvvvbvthomd",
-      "pass": "5c81286f0d3e7072af05bb23470d65e68aeae3de0417259daedff9a2a4345135",
+      "name": "d5hktvb1aabpgp",
+      "user": "fgmvfrlzgyvspu",
+      "pass": "4b2ea9cd9f0cdda498b84b2913b37ffcf768cba47c87c059dcbd15b2dcf3deee",
       "options": {
-        "host": "ec2-54-243-197-120.compute-1.amazonaws.com",
+        "host": "ec2-54-227-245-146.compute-1.amazonaws.com",
         "port": 5432,
         "dialect": "postgres",
         "define": {
