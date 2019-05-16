@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "casl": "^1.1.0",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "pg": "^7.10.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.8.6"
+  },
+  "name": "cwp-33-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazanYa/cwp-33-cd.git"
+  },
+  "author": "sazanya"
+}
