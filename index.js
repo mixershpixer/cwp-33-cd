@@ -52,6 +52,6 @@ app.use((error, req, res, next) => {
 });
 
 app.listen(port, function () {
-    console.log("AUTODEPLOY ENABLED");
+    console.log("AUTODEPLOY ENABLED NOW");
     console.log(`Server is running on ${port}...`);
 });
